@@ -42,19 +42,19 @@ Link for Scraping Code: https://github.com/chaitanyaa1512/Amazon_Web_Scrapping_a
 
 In the analysis phase, we utilize the cleaned and structured data to derive key insights. The analysis includes:
 
-# a. Number of Brands in the Segment 
+a. Number of Brands in the Segment 
 - Count the unique brands available in the smart lock category.
 
-# b. Count of SKUs per Brand
+b. Count of SKUs per Brand
 - Determine how many SKUs (Stock Keeping Units) are available for each brand.
 
-# c. Relative Rating 
+c. Relative Rating 
 - Calculate and compare the average ratings for different brands.
 
-# d. Relative Ranking 
+d. Relative Ranking 
 - Analyze the relative ranking of products based on their position in search results.
 
-# e. Price Distribution per SKU 
+e. Price Distribution per SKU 
 - Assess how the prices of smart locks are distributed across different price ranges.
 
 # 3.  Presentation of the Analysis
