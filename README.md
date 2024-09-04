@@ -1,6 +1,7 @@
 # Amazon_Web_Scrapping_and_Data_Analysis
 
-# Overview: The Smart Locks - Amazon Product Report aims to provide insights into key players and market trends within the smart lock segment. By scraping data from Amazon, we gather key product information to analyze market size, leading brands, and product characteristics. The project involves cleaning the scraped data, performing comprehensive analysis, and presenting findings through compelling visualizations.
+# Overview: 
+The Smart Locks - Amazon Product Report aims to provide insights into key players and market trends within the smart lock segment. By scraping data from Amazon, we gather key product information to analyze market size, leading brands, and product characteristics. The project involves cleaning the scraped data, performing comprehensive analysis, and presenting findings through compelling visualizations.
 
 # Tools and Technologies Used
 1. Web Scraping - Extracting product data from Amazon.
