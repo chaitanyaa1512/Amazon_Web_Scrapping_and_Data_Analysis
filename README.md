@@ -69,5 +69,8 @@ Link tp the dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2FjYTBiZTEtODIyZS
 # - PowerPoint Presentation
 - A summary of the findings and insights, designed to communicate the analysis results effectively.
 
+
+![Screenshot 2024-09-05 015347](https://github.com/user-attachments/assets/45965f66-79ed-4783-8c7f-3181738e4627)
+
   
 ![Screenshot 2024-09-05 013144](https://github.com/user-attachments/assets/f24977fb-897c-487f-8be4-ca448b6821c0)
