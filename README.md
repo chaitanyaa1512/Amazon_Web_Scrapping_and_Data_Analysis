@@ -64,7 +64,7 @@ The final phase involves presenting the analysis results. This includes:
 # - Power BI Dashboard 
 - Interactive visualizations and dashboards to showcase key metrics and insights.
   
-Link tp the dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2FjYTBiZTEtODIyZS00ODVmLWEzZjAtOGM1MjY3ZThhNGUwIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2FjYTBiZTEtODIyZS00ODVmLWEzZjAtOGM1MjY3ZThhNGUwIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
 # - PowerPoint Presentation
 - A summary of the findings and insights, designed to communicate the analysis results effectively.
