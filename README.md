@@ -73,4 +73,5 @@ Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2FjYTBiZTEtODIyZS
 ![Screenshot 2024-09-05 015734](https://github.com/user-attachments/assets/ee01c2ab-b5d8-4a68-bfee-bf551ddf6116)
 
 # Dashboard: 
-![Screenshot 2024-09-05 013144](https://github.com/user-attachments/assets/f24977fb-897c-487f-8be4-ca448b6821c0)
+
+![Screenshot 2024-09-05 013144](https://github.com/user-attachments/assets/65b2b2e2-117c-47d6-a899-ba4de5f6802b)
